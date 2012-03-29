@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+<version>
+        <ver>1.4</ver>
+        <last_updated>2012-03-09 16:09:00</last_updated>
+        <official_url>openddr.org</official_url>
+		<maintainers>
+		</maintainers>
+		<authors>
+		</authors>   
+		<statement>
+		     <![CDATA[ 
+				Copyright 2011 OpenDDR LLC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		]]>
+		</statement>
+  </version>
+<!-- DDR Core Vocabulary description -->
+<VocabularyDescription target="http://www.w3.org/2008/01/ddr-core-vocabulary">
+	<!-- Aspects -->
+	<Aspects>
+		<Aspect name="device"/>
+	</Aspects>
+	<!-- Properties -->
+	<Properties>
+		<Property name="vendor" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="model" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="displayWidth" datatype="xs:nonNegativeInteger" aspects="device" defaultAspect="device"/>
+		<Property name="displayHeight" datatype="xs:nonNegativeInteger" aspects="device" defaultAspect="device"/>
+		<Property name="mobile_browser" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="mobile_browser_version" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="device_os" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="device_os_version" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="nokia_edition" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="nokia_series" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="dual_orientation" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="inputDevices" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="is_wireless_device" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="is_tablet" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_support_javascript" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_support_getelementbyid" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_support_inner_html" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_manipulate_dom" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_manipulate_css" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_support_events" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="ajax_support_event_listener" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="xhtml_format_as_css_property" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="xhtml_format_as_attribute" datatype="xs:string" aspects="device" defaultAspect="device"/>
+		<Property name="marketing_name" datatype="xs:string" aspects="device"  defaultAspect="device" />
+                <Property name="image_inlining" datatype="xs:string" aspects="device" defaultAspect="device"/>
+	</Properties>
+</VocabularyDescription>
+</ODDR>

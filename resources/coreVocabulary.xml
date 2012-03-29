@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+    <version>
+        <ver>1.4</ver>
+        <last_updated>2012-03-09 16:09:00</last_updated>
+        <official_url>openddr.org</official_url>
+        <maintainers>
+        </maintainers>
+        <authors>
+        </authors>
+        <statement>
+        <![CDATA[
+        Copyright 2011 OpenDDR LLC
+        This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
+        Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+        ]]>
+        </statement>
+    </version>
+<!-- DDR Core Vocabulary description -->
+    <VocabularyDescription target="http://www.w3.org/2008/01/ddr-core-vocabulary">
+	<!-- Aspects -->
+        <Aspects>
+            <Aspect name="device"/>
+            <Aspect name="webBrowser"/>
+        </Aspects>
+	<!-- Properties -->
+        <Properties>
+            <Property name="vendor" datatype="xs:string" aspects="device, webBrowser" defaultAspect="device"/>
+            <Property name="model" datatype="xs:string" aspects="device, webBrowser" defaultAspect="device"/>
+            <Property name="displayWidth" datatype="xs:nonNegativeInteger" aspects="device, webBrowser" defaultAspect="device"/>
+            <Property name="displayHeight" datatype="xs:nonNegativeInteger" aspects="device, webBrowser" defaultAspect="device"/>
+            <Property name="displayColorDepth" datatype="xs:nonNegativeInteger" aspects="device" defaultAspect="device"/>
+            <Property name="cookieSupport" datatype="xs:boolean" aspects="webBrowser" defaultAspect="webBrowser"/>
+            <Property name="version" datatype="xs:string" aspects="device, webBrowser" defaultAspect="device"/>
+            <Property name="imageFormatSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
+            <Property name="inputModeSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
+            <Property name="stylesheetSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
+            <Property name="markupSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
+            <Property name="inputDevices" datatype="xs:enumeration" aspects="device" defaultAspect="device"/>
+            <Property name="scriptSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
+        </Properties>
+    </VocabularyDescription>
+</ODDR>

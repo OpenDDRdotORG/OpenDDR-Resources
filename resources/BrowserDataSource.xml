@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+    <version>
+        <ver>1.4</ver>
+        <last_updated>2012-03-09 16:09:00</last_updated>
+        <official_url>openddr.org</official_url>
+        <maintainers>
+        </maintainers>
+        <authors>
+        </authors>
+        <statement>
+		     <![CDATA[ 
+				Copyright 2011 OpenDDR LLC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		]]>
+        </statement>
+    </version>
+    <Browsers>
+        <browser id="Apple.Mobile Safari.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Apple.Mobile Safari.10.54.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Apple.Mobile Safari.4.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Apple.Mobile Safari.5.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Apple.Safari.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg,jpeg2000"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlBasic11"/>
+        </browser>
+        <browser id="Google.Android Browser.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Google.Android Browser.3.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Google.Android Browser.3.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Google.Android Browser.4.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Google.Android Browser.5.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Infraware.Polaris.5.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Infraware.Polaris.5.01.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Infraware.Polaris.6.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Infraware.Polaris.6.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Infraware.Polaris.6.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Infraware.Polaris.7.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.6.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.6.12.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.6.5.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.6.8.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.6.9.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.7.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.7.11.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.7.6.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.7.7.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Microsoft.IEMobile.9.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Obigo.Obigo Browser.0.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.OpenWave.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.OpenWave.6.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.OpenWave.6.2.3.3">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.OpenWave.6.3.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.OpenWave.7.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.3.0.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.3.01.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.3.04.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.3.1.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.4.0.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.4.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.0.0">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.1.1">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.10.10">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.11.11">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.2.2">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.3.3">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.4.4">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.5.5">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.6.6">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.5.0.7.7">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.0.1.1">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.0.273.273">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.0.276.276">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.0.287.287">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.1.4.4">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.1.5.5">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.1.6.6">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.1.7.7">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.1.1">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.10.10">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.11.11">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.13.13">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.14.14">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.15.15">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.16.16">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.17.17">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.2.2">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.3.3">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.4.4">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.5.5">
+            <property name="cookieSupport" value="False"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.6.6">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.7.7">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.8.8">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.2.9.9">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.3.3.3">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.3.4.4">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.3.6.6">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.3.7.7">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.6.3.8.8">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.0.1.1">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.0.1a.1a">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.0.2.2">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.0.3.3">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.2.1.1">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.2.2.2">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.2.5.5">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Openwave.UP.Browser.7.2.c.c">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Opera.Opera.10.10.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.8.65.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.10.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.30.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.5.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.50.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.7.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Opera.9.70.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mini.1.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Opera.Mini.3.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mini.4.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mini.4.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mini.4.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mini.5.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.5.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.50.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.51.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.60.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.7.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="Opera.Mobile.9.70.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Opera.Tablet.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Samsung.Dolfin.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Samsung.Dolfin.1.5.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Samsung.Dolfin.2.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Samsung.Dolfin.2.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Samsung.Jasmine.0.8.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Samsung.Jasmine.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.2.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.3.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.4.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.4.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.4.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="SonyEricsson.Mobile Browser.R1A.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.2.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.0.1.1">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.0.2.2">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.2.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.3.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.4.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.3.5.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,xhtmlMP11,xhtmlMP12,WML10"/>
+        </browser>
+        <browser id="Access.NetFront.4.1.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML10"/>
+        </browser>
+        <browser id="RIM.BlackBerry.2.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="RIM.BlackBerry.3.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="RIM.BlackBerry.4.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="RIM.BlackBerry.5.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="RIM.BlackBerry.6.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="RIM.BlackBerry.7.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="Google.Chrome.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlBasic11,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="Mozilla.Firefox Mobile.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10,WML1"/>
+        </browser>
+        <browser id="Mozilla.Firefox.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg,apng"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlBasic11,xhtmlMP10"/>
+        </browser>
+        <browser id="Microsoft.Internet Explorer.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg.jpegxr"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlBasic11"/>
+        </browser>
+        <browser id="KDE.Konqueror.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg,jpeg2000"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlBasic11,xhtmlMP10"/>
+        </browser>
+        <browser id="Nokia.Nokia Browser.1.0.0.0">
+            <property name="cookieSupport" value="True"/>
+            <property name="imageFormatSupport" value="gif87,gif89a,png,jpeg"/>
+            <property name="markupSupport" value="xhtmlBasic10,xhtmlMP10"/>
+        </browser>
+    </Browsers>
+</ODDR>

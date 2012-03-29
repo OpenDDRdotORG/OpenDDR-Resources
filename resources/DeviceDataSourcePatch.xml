@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+    <version>
+        <ver>1.4</ver>
+        <last_updated>2012-03-09 16:09:00</last_updated>
+        <official_url></official_url>
+        <maintainers>
+        </maintainers>
+        <authors>
+        </authors>
+        <statement>
+		     <![CDATA[
+				Copyright 2011 OpenDDR LLC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		]]>
+        </statement>
+    </version>
+    <Devices>
+        <device id="desktopDevice" parentId="generic-">
+            <property name="vendor" value="desktop"/>
+            <property name="model" value="desktop"/>
+            <property name="displayHeight" value="600"/>
+            <property name="displayWidth" value="800"/>
+            <property name="is_wireless_device" value="false"/>
+            <property name="ajax_support_javascript" value="true"/>
+            <property name="ajax_support_getelementbyid" value="true"/>
+            <property name="ajax_support_inner_html" value="true"/>
+            <property name="ajax_manipulate_dom" value="true"/>
+            <property name="ajax_manipulate_css" value="true"/>
+            <property name="ajax_support_events" value="true"/>
+            <property name="ajax_support_event_listener" value="true"/>
+        </device>
+    </Devices>
+</ODDR>
