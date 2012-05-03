@@ -1,5 +1,47 @@
 Dear OpenDDR user, 
 
-Welcome to OpenDDR-Resources repository.!
+Welcome to OpenDDR-Resources repository.
 
-Here you can find Datasources, Vocabularies and Builder file of the OpenDDR Projects. 
+Here you can find Datasources, Vocabularies and Builder file of the OpenDDR Projects. The repository is updated on a 
+monthly basis thanks to community contributions and to information coming from users of OpenDDR (companies and 
+developers worldwide).
+
+OpenDDR project has been made by a group of web & mobile developers aware of the importance for their work of an always 
+up-to-date Device Description Repository (DDR), and of good APIs to access it. 
+We think that identifying hardware and software features of the accessing clients is a basic need, a commodity that 
+should be available to any developer to allow a better software design. 
+
+We started looking for all the available and open sources of device descriptions and we thought how to guarantee for the 
+future the freedom of choice to other developers, like us: the solution we found was relying on W3C standards. One of 
+the sources we looked at was the content of the file wurfl.xml, in its version dated April 24th 2011, the last one with 
+open terms of use, consistent with the initial spirit of wurfl.xml project, and respectful toward “many different people 
+from many different countries” collecting over the years the data. Below its terms of use: 
+
+     Dear Developer, the WURFL file contains information about the
+     capabilities of mobile devices, capabilities and features.
+     The main scope of this file is to collect as
+     many information as we can about all the existing wireless devices
+     that access mobile pages so that developers will be able to build better
+     applications and better services for the users.
+     This project is open-source and is intended for developers working
+     with the WAP environment. All the information listed here has been
+     collected by many different people from many different
+     countries. You are allowed to use WURFL in any of your applications,
+     free or commercial. The only thing required is to make public any
+     modification to this file, following the original
+     spirit and idea of the creators of this project. This will help WURFL
+     to grow better and better every day. The use of WURFL is at your own risk,
+     there is no warranty that all agents and
+     capabilities are correct. All the information, as stated, has been gathered
+     by many users from many places around the world and as such there is
+     no guarantee about the reliability of this
+     information. Post any noteworthy modification and comment
+     to the file on the WMLProgramming mailing list on Yahoo Groups:
+     http://tech.groups.yahoo.com/group/wmlprogramming/ Alternatively,
+     you can mail your modification to Luca Passani,
+     the WURFL maintainer, at passani at eunet dot no
+
+
+The file wurfl.xml dated April 24th 2011 cannot be found anymore on wurfl.sourceforge.net, but it has been distributed 
+on several different channels, so it is very easy to find on the Web (a copy is available here 
+https://github.com/bdelacretaz/wurfl). 
