@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.8</ver>
-        <last_updated>2012-07-06 09:20:00</last_updated>
+	<ver>1.9</ver>
+	<last_updated>2012-08-03 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,201 @@
 </version>
 <Builders>
   <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+  <device id="XT685">
+      <list>
+        <value>XT685</value>
+      </list>
+    </device>
+  <device id="LT28h">
+      <list>
+        <value>SonyEricssonLT28h</value>
+      </list>
+    </device>
+   <device id="ALCATEL ONE TOUCH 993">
+      <list>
+        <value>ALCATEL ONE TOUCH 993</value>
+      </list>
+    </device>
+  <device id="MB870">
+      <list>
+        <value>MB870</value>
+      </list>
+    </device>
+   <device id="SCH-I200">
+      <list>
+        <value>SCH-I200</value>
+      </list>
+    </device>
+   <device id="SAMSUNG-SGH-I547">
+      <list>
+        <value>SAMSUNG-SGH-I547</value>
+      </list>
+    </device>
+   <device id="XT907">
+      <list>
+        <value>XT907</value>
+      </list>
+    </device>
+  <device id="LT28h">
+      <list>
+        <value>LT28h</value>
+      </list>
+    </device>
+   <device id="SHW-M440S">
+      <list>
+        <value>SHW-M440S</value>
+      </list>
+    </device>
+   <device id="SCH-I815">
+      <list>
+        <value>SCH-I815</value>
+      </list>
+    </device>
+  <device id="SH-09D">
+      <list>
+        <value>SH-09D</value>
+      </list>
+    </device>
+  <device id="SH-07D">
+      <list>
+        <value>SH-07D</value>
+      </list>
+    </device>
+  <device id="N-07D">
+      <list>
+        <value>N-07D</value>
+      </list>
+    </device>
+  <device id="SC-06D">
+      <list>
+        <value>SC-06D</value>
+      </list>
+    </device>
+  <device id="MT25i">
+      <list>
+        <value>SonyEricssonMT25i</value>
+      </list>
+    </device>
+   <device id="spica">
+      <list>
+        <value>Galaxy Spica</value>
+      </list>
+    </device>
+  <device id="MZ616">
+      <list>
+        <value>MZ616</value>
+      </list>
+    </device>
+   <device id="MOT-XT923">
+      <list>
+        <value>MOT-XT923</value>
+      </list>
+    </device>
+  <device id="SonyLT30p">
+      <list>
+        <value>SonyLT30p</value>
+      </list>
+    </device>
+   <device id="ZTE V889D">
+      <list>
+        <value>ZTE V889D</value>
+      </list>
+    </device>
+  <device id="SCH-I939">
+      <list>
+        <value>SCH-I939</value>
+      </list>
+    </device>
+  <device id="SonyST21">
+      <list>
+        <value>SonyST21</value>
+      </list>
+    </device>
+  <device id="MT25i">
+      <list>
+        <value>MT25i</value>
+      </list>
+    </device>
+  <device id="ST27i">
+      <list>
+        <value>ST27i</value>
+      </list>
+    </device>
+   <device id="HTC Desire C">
+      <list>
+        <value>HTC Desire C</value>
+      </list>
+    </device>
+   <device id="GT-I9308">
+      <list>
+        <value>GT-I9308</value>
+      </list>
+    </device>
+  <device id="LG-P895">
+      <list>
+        <value>LG-P895</value>
+      </list>
+    </device>
+   <device id="LG-MS770">
+      <list>
+        <value>LG-MS770</value>
+      </list>
+    </device>
+  <device id="ST18a">
+      <list>
+        <value>ST18a</value>
+      </list>
+    </device>
+  <device id="ISW13HT">
+      <list>
+        <value>ISW13HT</value>
+      </list>
+    </device>
+   <device id="HTC_One_X">
+      <list>
+        <value>HTC S720e</value>
+      </list>
+    </device>
+  <device id="HTC T328w">
+	<list>
+	    <value>HTC T328w</value>
+	</list>
+    </device>
+  <device id="LG-P708g">
+	<list>
+	    <value>LG-P708g</value>
+	</list>
+    </device>
+  <device id="LG-E612">
+	<list>
+	    <value>LG-E612</value>
+	</list>
+    </device>
+   <device id="A7 ART">
+	<list>
+	    <value>A7 ART</value>
+	</list>
+    </device>
+   <device id="ADR6410LVW">
+	<list>
+	    <value>ADR6410LVW</value>
+	</list>
+    </device>
+  <device id="AT300">
+	<list>
+	    <value>AT300</value>
+	</list>
+    </device>
+   <device id="ASUS Transformer Pad TF700T">
+	<list>
+	    <value>ASUS Transformer Pad TF700T</value>
+	</list>
+    </device>
+   <device id="A511">
+	<list>
+	    <value>A511</value>
+	</list>
+    </device>
   <device id="HuaweiU8651">
 	<list>
 	    <value>HuaweiU8651</value>
@@ -6257,6 +6452,11 @@
     </device>
   </builder>
   <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
+  <device id="GT-S7530">
+        <list>
+            <value>GT-S7530</value>
+        </list>
+    </device>
   <device id="Lumia 610">
         <list>
             <value>Lumia 610</value>
