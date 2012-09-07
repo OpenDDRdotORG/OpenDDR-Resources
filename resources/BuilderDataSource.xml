@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-	<ver>1.9</ver>
-	<last_updated>2012-08-03 09:31:00</last_updated>
+	<ver>1.10</ver>
+	<last_updated>2012-09-06 19:43:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,286 @@
 </version>
 <Builders>
   <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+  <device id="MOT-XT890">
+	<list>
+	    <value>MOT-XT890</value>
+	</list>
+  </device>
+  <device id="SHW-M480W">
+	<list>
+	    <value>SHW-M480W</value>
+	</list>
+    </device>
+  <device id="LT26ii">
+	<list>
+	    <value>LT26ii</value>
+	</list>
+    </device>
+   <device id="SonyEricssonST23i">
+	<list>
+	    <value>SonyEricssonST23i</value>
+	</list>
+    </device>
+  <device id="LG-P870">
+	<list>
+	    <value>LG-P870</value>
+	</list>
+    </device>
+   <device id="SonySO-04D">
+	<list>
+	    <value>SO-04D</value>
+	</list>
+    </device>
+  <device id="LT26i">
+	<list>
+	    <value>Xperia S</value>
+	</list>
+    </device>
+   <device id="MOT-XT925">
+	<list>
+	    <value>XT925</value>
+	</list>
+    </device>
+  <device id="XT905">
+	<list>
+	    <value>XT905</value>
+	</list>
+    </device>
+  <device id="MOT-XT925">
+	<list>
+	    <value>MOT-XT925</value>
+	</list>
+    </device>
+  <device id="GT-I9305">
+	<list>
+	    <value>GT-I9305</value>
+	</list>
+    </device>
+   <device id="GT-N7100">
+	<list>
+	    <value>GT-N7100</value>
+	</list>
+    </device>
+   <device id="SonyEricssonST25i">
+	<list>
+	    <value>SonyEricssonST25i</value>
+	</list>
+    </device>
+  <device id="LG-F160L">
+	<list>
+	    <value>LG-F160L</value>
+	</list>
+    </device>
+  <device id="LG-F160K">
+	<list>
+	    <value>LG-F160K</value>
+	</list>
+    </device>
+  <device id="XT894">
+	<list>
+	    <value>XT894</value>
+	</list>
+    </device>
+  <device id="LG-P760">
+	<list>
+	    <value>LG-P760</value>
+	</list>
+    </device>
+  <device id="SonyLT25i">
+	<list>
+	    <value>SonyLT25i</value>
+	</list>
+    </device>
+  <device id="VS950">
+	<list>
+	    <value>VS950</value>
+	</list>
+    </device>
+  <device id="SHW-M480S">
+	<list>
+	    <value>SHW-M480S</value>
+	</list>
+    </device>
+  <device id="SHW-M480K">
+	<list>
+	    <value>SHW-M480K</value>
+	</list>
+    </device>
+  <device id="SHV-E170K">
+	<list>
+	    <value>SHV-E170K</value>
+	</list>
+    </device>
+  <device id="LG-F120L">
+	<list>
+	    <value>LG-F120L</value>
+	</list>
+    </device>
+  <device id="SonySO-05D">
+	<list>
+	    <value>SonySO-05D</value>
+	</list>
+    </device>
+  <device id="SonySO-04D">
+	<list>
+	    <value>SonySO-04D</value>
+	</list>
+    </device>
+   <device id="LG-US730">
+	<list>
+	    <value>LG-US730</value>
+	</list>
+    </device>
+  <device id="LT26w">
+	<list>
+	    <value>LT26w</value>
+	</list>
+    </device>
+  <device id="GT-S7562L">
+	<list>
+	    <value>GT-S7562L</value>
+	</list>
+    </device>
+  <device id="GT-N8010">
+	<list>
+	    <value>GT-N8010</value>
+	</list>
+    </device>
+  <device id="U8820">
+	<list>
+	    <value>U8820</value>
+	</list>
+    </device>
+  <device id="HUAWEI T8300">
+	<list>
+	    <value>HUAWEI T8300</value>
+	</list>
+    </device>
+  <device id="Phoenix">
+	<list>
+	    <value>Phoenix</value>
+	</list>
+    </device>
+   <device id="ADR910L">
+	<list>
+	    <value>ADR910L</value>
+	</list>
+    </device>
+  <device id="XT881">
+	<list>
+	    <value>XT881</value>
+	</list>
+    </device>
+  <device id="LG-AS695">
+	<list>
+	    <value>LG-AS695</value>
+	</list>
+    </device>
+   <device id="GT-S6802">
+	<list>
+	    <value>GT-S6802</value>
+	</list>
+    </device>
+  <device id="HUAWEI-U8850">
+	<list>
+	    <value>HUAWEI-U8850</value>
+	</list>
+    </device>
+  <device id="GT-S5839i">
+	<list>
+	    <value>GT-S5839i</value>
+	</list>
+    </device>
+   <device id="SonyEricssonST25a">
+	<list>
+	    <value>SonyEricssonST25a</value>
+	</list>
+    </device>
+   <device id="SHW-M340S">
+	<list>
+	    <value>SHW-M340S</value>
+	</list>
+    </device>
+  <device id="LG-LU6500">
+	<list>
+	    <value>LG-LU6500</value>
+	</list>
+    </device>
+   <device id="SH-13C">
+	<list>
+	    <value>SH-13C</value>
+	</list>
+    </device>
+   <device id="ASUS Transformer Pad TF300T">
+	<list>
+	    <value>ASUS Pad TF300T</value>
+	</list>
+    </device>
+   <device id="U9500">
+      <list>
+        <value>U9500</value>
+      </list>
+    </device>
+  <device id="IM-A770K">
+      <list>
+        <value>IM-A770K</value>
+      </list>
+    </device>
+  <device id="IM-A760S">
+      <list>
+        <value>IM-A760S</value>
+      </list>
+    </device>
+  <device id="P-02D">
+      <list>
+        <value>P-02D</value>
+      </list>
+    </device>
+  <device id="GT-S6802B">
+      <list>
+        <value>GT-S6802B</value>
+      </list>
+    </device>
+  <device id="ISW11M">
+      <list>
+        <value>ISW11M</value>
+      </list>
+    </device>
+  <device id="MID1042">
+      <list>
+        <value>MID1042</value>
+      </list>
+    </device>
+  <device id="LG-LU6800">
+      <list>
+        <value>LG-LU6800</value>
+      </list>
+    </device>
+  <device id="ALCATEL ONE TOUCH 918S">
+      <list>
+        <value>ALCATEL ONE TOUCH 918S</value>
+      </list>
+    </device>
+  <device id="SHW-M380W">
+      <list>
+        <value>SHW-M380W</value>
+      </list>
+    </device>
+   <device id="SGH-I957R">
+      <list>
+        <value>SGH-I957R</value>
+      </list>
+    </device>
+  <device id="XT885">
+      <list>
+        <value>XT885</value>
+      </list>
+    </device>
+   <device id="SGH-I747M">
+      <list>
+        <value>SGH-I747M</value>
+      </list>
+    </device>
   <device id="XT685">
       <list>
         <value>XT685</value>
@@ -6452,6 +6732,11 @@
     </device>
   </builder>
   <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
+  <device id="Lumia 920">
+        <list>
+            <value>Lumia 920</value>
+        </list>
+    </device>
   <device id="GT-S7530">
         <list>
             <value>GT-S7530</value>
@@ -41924,6 +42209,12 @@
             <value>webOS</value>
             <value>Pre/1.2</value>
         </list>
+    </device>
+    <device id="BlackBerry 9370">
+	<list>
+	    <value>[Bb]lack.?[Bb]erry</value>
+	    <value>BlackBerry 9370</value>
+	</list>
     </device>
   </builder>
 </Builders>
