@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.12</ver>
-        <last_updated>2012-11-09 09:31:00</last_updated>
+        <ver>1.13</ver>
+        <last_updated>2012-12-12 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,116 @@
 </version>
 <Builders>
   <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+   <device id="HTC One X+">
+	<list>
+	    <value>PM63100</value>
+	</list>
+  </device>
+   <device id="HTC J Z321e">
+	<list>
+	    <value>HTC J Z321e</value>
+	</list>
+  </device>
+  <device id="HTC_DLX_U">
+	<list>
+	    <value>HTC_DLX_U</value>
+	</list>
+  </device>
+   <device id="Nexus 4">
+	<list>
+	    <value>Nexus 4</value>
+	</list>
+  </device>
+  <device id="HTC One X+">
+	<list>
+	    <value>HTC One X+</value>
+	</list>
+  </device>
+  <device id="SC-02E">
+	<list>
+	    <value>SC-02E</value>
+	</list>
+  </device>
+  <device id="C1605">
+	<list>
+	    <value>C1605</value>
+	</list>
+  </device>
+  <device id="C6503">
+	<list>
+	    <value>C6503</value>
+	</list>
+  </device>
+  <device id="C6502">
+	<list>
+	    <value>C6502</value>
+	</list>
+  </device>
+  <device id="C6506">
+	<list>
+	    <value>C6506</value>
+	</list>
+  </device>
+  <device id="C6603">
+	<list>
+	    <value>C6603</value>
+	</list>
+  </device>
+   <device id="LG-P698">
+	<list>
+	    <value>LG-P698</value>
+	</list>
+  </device>
+  <device id="LG-E615">
+	<list>
+	    <value>LG-E615</value>
+	</list>
+  </device>
+  <device id="GT-B5330">
+	<list>
+	    <value>GT-B5330</value>
+	</list>
+  </device>
+  <device id="Nexus 10">
+	<list>
+	    <value>Nexus 10</value>
+	</list>
+  </device>
+   <device id="SPH-M830">
+	<list>
+	    <value>SPH-M830</value>
+	</list>
+  </device>
+   <device id="SHW-M380S">
+	<list>
+	    <value>SHW-M380S</value>
+	</list>
+  </device>
+  <device id="SPH-L900">
+	<list>
+	    <value>SPH-L900</value>
+	</list>
+  </device>
+   <device id="Huawei-U8665">
+	<list>
+	    <value>Huawei-U8665</value>
+	</list>
+  </device>
+   <device id="GT-N8013">
+	<list>
+	    <value>GT-N8013</value>
+	</list>
+  </device>
+  <device id="LG-E970">
+	<list>
+	    <value>LG-E970</value>
+	</list>
+  </device>
+   <device id="SCH-I925">
+	<list>
+	    <value>SCH-I925</value>
+	</list>
+  </device>
   <device id="GT-S6358">
 	<list>
 	    <value>GT-S6358</value>
@@ -6942,6 +7052,21 @@
     </device>
   </builder>
   <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
+  <device id="A620b">
+        <list>
+            <value>A620b</value>
+        </list>
+    </device>
+  <device id="GT-I8750">
+        <list>
+            <value>GT-I8750</value>
+        </list>
+    </device>
+   <device id="C625b">
+        <list>
+            <value>C625b</value>
+        </list>
+    </device>
   <device id="SCH-I930">
         <list>
             <value>SCH-I930</value>
