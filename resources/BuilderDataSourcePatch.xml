@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.6</ver>
-        <last_updated>2012-05-03 09:31:00</last_updated>
+        <ver>1.13</ver>
+        <last_updated>2012-12-12 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,11 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+            <device id="Kindle Fire">
+                <list>
+                    <value>Silk-Accelerated</value>
+                </list>
+            </device>
         </builder>
         <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
         </builder>
@@ -28,6 +33,7 @@
         <builder class="org.openddr.simpleapi.oddr.builder.device.SimpleDeviceBuilder">
             <device id="desktopDevice">
                 <list>
+		    <value>Mozilla/5.0; (X11; Linux x86_64; rv:8.0)</value>
                     <value>Mozilla/4.0 (compatible; MSIE 6.0;</value>
                     <value>Mozilla/4.0 (compatible; MSIE 7.0;</value>
                     <value>Mozilla/4.0 (compatible; MSIE 8.0;</value>
