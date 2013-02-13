@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.14</ver>
-        <last_updated>2013-01-11 12:07:00</last_updated>
+        <ver>1.15</ver>
+        <last_updated>2013-02-13 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -33,7 +33,7 @@
         <builder class="org.openddr.simpleapi.oddr.builder.device.SimpleDeviceBuilder">
             <device id="desktopDevice">
                 <list>
-		    <value>Mozilla/5.0; (X11; Linux x86_64; rv:8.0)</value>
+                    <value>Mozilla/5.0; (X11; Linux x86_64; rv:8.0)</value>
                     <value>Mozilla/4.0 (compatible; MSIE 6.0;</value>
                     <value>Mozilla/4.0 (compatible; MSIE 7.0;</value>
                     <value>Mozilla/4.0 (compatible; MSIE 8.0;</value>

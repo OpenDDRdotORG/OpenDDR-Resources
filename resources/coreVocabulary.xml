@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.14</ver>
-        <last_updated>2013-01-11 12:07:00</last_updated>
+        <ver>1.15</ver>
+        <last_updated>2013-02-13 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -29,7 +29,6 @@
             <Property name="model" datatype="xs:string" aspects="device, webBrowser" defaultAspect="device"/>
             <Property name="displayWidth" datatype="xs:nonNegativeInteger" aspects="device, webBrowser" defaultAspect="device"/>
             <Property name="displayHeight" datatype="xs:nonNegativeInteger" aspects="device, webBrowser" defaultAspect="device"/>
-            <Property name="displayColorDepth" datatype="xs:nonNegativeInteger" aspects="device" defaultAspect="device"/>
             <Property name="cookieSupport" datatype="xs:boolean" aspects="webBrowser" defaultAspect="webBrowser"/>
             <Property name="version" datatype="xs:string" aspects="device, webBrowser" defaultAspect="device"/>
             <Property name="imageFormatSupport" datatype="xs:enumeration" aspects="webBrowser" defaultAspect="webBrowser"/>
