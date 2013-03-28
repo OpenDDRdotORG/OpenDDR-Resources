@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.15</ver>
-        <last_updated>2013-02-13 09:31:00</last_updated>
+        <ver>1.16</ver>
+        <last_updated>2013-03-28 09:30:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,156 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+        	<device id="U9202L-3">
+                <list>
+                    <value>U9202L-3</value>
+                </list>
+            </device>
+        	<device id="GT-S5303">
+                <list>
+                    <value>GT-S5303</value>
+                </list>
+            </device>
+        	<device id="SonyLT29i">
+                <list>
+                    <value>LT29i</value>
+                </list>
+            </device>
+        	<device id="LG-E977">
+                <list>
+                    <value>LG-E977</value>
+                </list>
+            </device>
+        	<device id="ME301T">
+                <list>
+                    <value>ME301T</value>
+                </list>
+            </device>
+        	<device id="HUAWEI D2-0082">
+                <list>
+                    <value>HUAWEI D2-0082</value>
+                </list>
+            </device>
+        	<device id="C2105">
+                <list>
+                    <value>C2105</value>
+                </list>
+            </device>
+        	<device id="SHV-E300S">
+                <list>
+                    <value>SHV-E300S</value>
+                </list>
+            </device>
+        	<device id="XT915">
+                <list>
+                    <value>XT915</value>
+                </list>
+            </device>
+        	<device id="SonySO-02E">
+                <list>
+                    <value>SO-02E</value>
+                </list>
+            </device>
+        	<device id="SH837W">
+                <list>
+                    <value>SH837W</value>
+                </list>
+            </device>
+        	<device id="SonyLT25i">
+                <list>
+                    <value>LT25i</value>
+                </list>
+            </device>
+       		<device id="LG-E435">
+                <list>
+                    <value>LG-E435</value>
+                </list>
+            </device>
+        	<device id="F160L">
+                <list>
+                    <value>F160L</value>
+                </list>
+            </device>
+        	<device id="GT-I8262D">
+                <list>
+                    <value>GT-I8262D</value>
+                </list>
+            </device>
+        	<device id="HUAWEI C8813">
+                <list>
+                    <value>HUAWEI C8813</value>
+                </list>
+            </device>
+        	<device id="GT-S7710">
+                <list>
+                    <value>GT-S7710</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG GT-B7810">
+                <list>
+                    <value>SAMSUNG GT-B7810</value>
+                </list>
+            </device>
+        	<device id="HTC6435LVW 4G">
+                <list>
+                    <value>HTC6435LVW 4G</value>
+                </list>
+            </device>
+        	<device id="MZ607">
+                <list>
+                    <value>MZ607</value>
+                </list>
+            </device>
+        	<device id="GT-S6810P">
+                <list>
+                    <value>GT-S6810P</value>
+                </list>
+            </device>
+        	<device id="LG-P875">
+                <list>
+                    <value>LG-P875</value>
+                </list>
+            </device>
+        	<device id="W732">
+                <list>
+                    <value>W732</value>
+                </list>
+            </device>
+        	<device id="ZTE V790">
+                <list>
+                    <value>ZTE V790</value>
+                </list>
+            </device>
+        	<device id="HUAWEI U8950-1">
+                <list>
+                    <value>HUAWEI U8950-1</value>
+                </list>
+            </device>
+            <device id="P-02E">
+                <list>
+                    <value>P-02E</value>
+                </list>
+            </device>
+        	<device id="SO-01E">
+                <list>
+                    <value>SO-01E</value>
+                </list>
+            </device>
+        	<device id="SonySO-02E">
+                <list>
+                    <value>SonySO-02E</value>
+                </list>
+            </device>
+        	<device id="SC-05D">
+                <list>
+                    <value>SC-05D</value>
+                </list>
+            </device>
+            <device id="LG-F240L">
+                <list>
+                    <value>LG-F240L</value>
+                </list>
+            </device>
             <device id="C5303">
                 <list>
                     <value>C5303</value>
