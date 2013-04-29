@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.16</ver>
-        <last_updated>2013-03-28 09:30:00</last_updated>
+        <ver>1.17</ver>
+        <last_updated>2013-04-29 09:30:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,221 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+        <device id="LG-F100L">
+                <list>
+                    <value>LG-F100L</value>
+                </list>
+            </device>
+        	<device id="LG-F240K">
+                <list>
+                    <value>LG-F240K</value>
+                </list>
+            </device>
+        	<device id="C5302">
+                <list>
+                    <value>C5302</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG SGH-M919">
+                <list>
+                    <value>SAMSUNG SGH-M919</value>
+                </list>
+            </device>
+        	<device id="GT-I9200">
+                <list>
+                    <value>GT-I9200</value>
+                </list>
+            </device>
+        	<device id="ME370T">
+                <list>
+                    <value>ME370T</value>
+                </list>
+            </device>
+        	<device id="V811">
+                <list>
+                    <value>V811</value>
+                </list>
+            </device>
+        	<device id="V360">
+                <list>
+                    <value>V360</value>
+                </list>
+            </device>
+        	<device id="LT30a">
+                <list>
+                    <value>LT30a</value>
+                </list>
+            </device>
+        	<device id="LG-E425g">
+                <list>
+                    <value>LG-E425g</value>
+                </list>
+            </device>
+        	<device id="XT926">
+                <list>
+                    <value>XT926</value>
+                </list>
+            </device>
+        	<device id="SonyLT30p">
+                <list>
+                    <value>Xperia T</value>
+                </list>
+            </device>
+        	<device id="LG-E973">
+                <list>
+                    <value>Optimus G</value>
+                </list>
+            </device>
+        	<device id="SCH-I545">
+                <list>
+                    <value>SCH-I545</value>
+                </list>
+            </device>
+        	<device id="P690">
+                <list>
+                    <value>Optimus Net</value>
+                </list>
+            </device>
+        	<device id="SonyEricssonLT18i">
+                <list>
+                    <value>lt18</value>
+                </list>
+            </device>
+        	<device id="ASUS Transformer Pad TF700T">
+                <list>
+                    <value>Transformer Infinity</value>
+                </list>
+            </device>
+        	<device id="SHW-E250S">
+                <list>
+                    <value>SHW-E250S</value>
+                </list>
+            </device>
+        	<device id="HTC Z560e">
+                <list>
+                    <value>One S</value>
+                </list>
+            </device>
+        	<device id="SGH-T879">
+                <list>
+                    <value>SAMSUNG-SGH-T879</value>
+                </list>
+            </device>
+        	<device id="GT-S7572">
+                <list>
+                    <value>GT-S7572</value>
+                </list>
+            </device>
+        	<device id="LG-F260S">
+                <list>
+                    <value>LG-F260S</value>
+                </list>
+            </device>
+        	<device id="XT920">
+                <list>
+                    <value>XT920</value>
+                </list>
+            </device>
+        	<device id="GT-N5110">
+                <list>
+                    <value>GT-N5110</value>
+                </list>
+            </device>
+        	<device id="L-04E">
+                <list>
+                    <value>L-04E</value>
+                </list>
+            </device>
+        	<device id="SCH-R970">
+                <list>
+                    <value>SCH-R970</value>
+                </list>
+            </device>
+        	<device id="SPH-L720">
+                <list>
+                    <value>SPH-L720</value>
+                </list>
+            </device>
+        	<device id="SGH-T999L">
+                <list>
+                    <value>SGH-T999L</value>
+                </list>
+            </device>
+        	<device id="LG-E455">
+                <list>
+                    <value>LG-E455</value>
+                </list>
+            </device>
+        	<device id="C1505">
+                <list>
+                    <value>SonyC1505</value>
+                </list>
+            </device>
+        	<device id="Alcatel_one_touch_918_Orange">
+                <list>
+                    <value>Alcatel_one_touch_918_Orange</value>
+                </list>
+            </device>
+        	<device id="GT-I9505">
+                <list>
+                    <value>SAMSUNG GT-I9505-ORANGE</value>
+                </list>
+            </device>
+        	<device id="GT-I9505">
+                <list>
+                    <value>GT-I9505</value>
+                </list>
+            </device>
+        	<device id="SGP321">
+                <list>
+                    <value>SGP321</value>
+                </list>
+            </device>
+        	<device id="LG-E460">
+                <list>
+                    <value>LG-E460</value>
+                </list>
+            </device>
+        	<device id="HUAWEI P2-6011">
+                <list>
+                    <value>HUAWEI P2-6011-orange</value>
+                </list>
+            </device>
+        	<device id="HUAWEI P2-6011">
+                <list>
+                    <value>HUAWEI P2-6011</value>
+                </list>
+            </device>
+        	<device id="HTC first">
+                <list>
+                    <value>HTC first</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG-EK-GC100">
+                <list>
+                    <value>EK-GC100</value>
+                </list>
+            </device>
+        	<device id="C1505">
+                <list>
+                    <value>C1505</value>
+                </list>
+            </device>
+        	<device id="ALCATEL_ONE_TOUCH_6010X_Orange">
+                <list>
+                    <value>ALCATEL_ONE_TOUCH_6010X_Orange</value>
+                </list>
+            </device>
+        	<device id="ALCATEL ONE TOUCH 997">
+                <list>
+                    <value>ALCATEL ONE TOUCH 997</value>
+                </list>
+            </device>
+        	<device id="GT-I9500">
+                <list>
+                    <value>GT-I9500</value>
+                </list>
+            </device>
         	<device id="U9202L-3">
                 <list>
                     <value>U9202L-3</value>
@@ -6867,6 +7082,41 @@
             </device>
         </builder>
         <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
+        	<device id="Nokia 620">
+                <list>
+                    <value>Lumia 620</value>
+                </list>
+            </device>
+        	<device id="Lumia 521">
+                <list>
+                    <value>Lumia 521</value>
+                </list>
+            </device>
+        	<device id="Lumia 720">
+                <list>
+                    <value>Lumia 720</value>
+                </list>
+            </device>
+        	<device id="Lumia 520">
+                <list>
+                    <value>Lumia 520</value>
+                </list>
+            </device>
+        	<device id="SGH-T899M">
+                <list>
+                    <value>SGH-T899M</value>
+                </list>
+            </device>
+        	<device id="Nokia 620">
+                <list>
+                    <value>Nokia 620</value>
+                </list>
+            </device>
+        	<device id="Lumia 928">
+                <list>
+                    <value>Lumia 928</value>
+                </list>
+            </device>
             <device id="A620b">
                 <list>
                     <value>A620b</value>
@@ -12340,6 +12590,12 @@
                 <list>
                     <value>Nokia</value>
                     <value>305</value>
+                </list>
+            </device>
+            <device id="GT-N7100">
+                <list>
+                    <value>android</value>
+                    <value>GT-N7100</value>
                 </list>
             </device>
         </builder>
