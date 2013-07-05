@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.18</ver>
-        <last_updated>2013-05-17 09:30:00</last_updated>
+        <ver>1.19</ver>
+        <last_updated>2013-06-30 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,106 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+        	<device id="C1904">
+                <list>
+                    <value>C1904</value>
+                </list>
+            </device>
+        	<device id="GT-I9502">
+                <list>
+                    <value>GT-I9502</value>
+                </list>
+            </device>
+        	<device id="SC-04E">
+                <list>
+                    <value>SC-04E</value>
+                </list>
+            </device>
+        	<device id="GT-I9508">
+                <list>
+                    <value>GT-I9508</value>
+                </list>
+            </device>
+        	<device id="ZTE U956">
+                <list>
+                    <value>ZTE U956</value>
+                </list>
+            </device>
+        	<device id="L-05E">
+                <list>
+                    <value>L-05E</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG-SGH-I257">
+                <list>
+                    <value>SAMSUNG-SGH-I257</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG GT-I9192">
+                <list>
+                    <value>SAMSUNG GT-I9192</value>
+                </list>
+            </device>
+        	<device id="F-06E">
+                <list>
+                    <value>F-06E</value>
+                </list>
+            </device>
+        	<device id="SM-C101">
+                <list>
+                    <value>SM-C101</value>
+                </list>
+            </device>
+        	<device id="SH-05E">
+                <list>
+                    <value>SH-05E</value>
+                </list>
+            </device>
+        	<device id="HUAWEI P6-U06">
+                <list>
+                    <value>HUAWEI P6-U06</value>
+                </list>
+            </device>
+        	<device id="C6616">
+                <list>
+                    <value>C6616</value>
+                </list>
+            </device>
+        	<device id="C5503">
+                <list>
+                    <value>C5503</value>
+                </list>
+            </device>
+        	<device id="GT-P5200">
+                <list>
+                    <value>GT-P5200</value>
+                </list>
+            </device>
+            <device id="SAMSUNG-SGH-I537">
+                <list>
+                    <value>SAMSUNG-SGH-I537</value>
+                </list>
+            </device>
+        	<device id="C1905">
+                <list>
+                    <value>C1905</value>
+                </list>
+            </device>
+        	<device id="GT-I9205">
+                <list>
+                    <value>GT-I9205</value>
+                </list>
+            </device>
+        	<device id="GT-I9295">
+                <list>
+                    <value>GT-I9295</value>
+                </list>
+            </device>
+        	<device id="SH-06E">
+                <list>
+                    <value>SH-06E</value>
+                </list>
+            </device>
         	<device id="GT-I9195">
                 <list>
                     <value>GT-I9195</value>
