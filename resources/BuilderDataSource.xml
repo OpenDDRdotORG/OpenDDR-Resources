@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.19</ver>
-        <last_updated>2013-06-30 09:31:00</last_updated>
+        <ver>1.20</ver>
+        <last_updated>2013-08-05 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,141 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+        	<device id="GT-S7270">
+                <list>
+                    <value>GT-S7270</value>
+                </list>
+            </device>
+        	<device id="ME173X">
+                <list>
+                    <value>ME173X</value>
+                </list>
+            </device>
+        	<device id="XT1080">
+                <list>
+                    <value>XT1080</value>
+                </list>
+            </device>
+        	<device id="XT1030">
+                <list>
+                    <value>XT1030</value>
+                </list>
+            </device>
+        	<device id="C6802">
+                <list>
+                    <value>C6802</value>
+                </list>
+            </device>
+        	<device id="C6833">
+                <list>
+                    <value>C6833</value>
+                </list>
+            </device>
+        	<device id="C6806">
+                <list>
+                    <value>C6806</value>
+                </list>
+            </device>
+        	<device id="SHV-E330S">
+                <list>
+                    <value>SHV-E330S</value>
+                </list>
+            </device>
+        	<device id="GT-S7272">
+                <list>
+                    <value>GT-S7272</value>
+                </list>
+            </device>
+        	<device id="SM-T315">
+                <list>
+                    <value>SM-T315</value>
+                </list>
+            </device>
+        	<device id="XT1053">
+                <list>
+                    <value>XT1053</value>
+                </list>
+            </device>
+        	<device id="GT-N7108">
+                <list>
+                    <value>GT-N7108</value>
+                </list>
+            </device>
+        	<device id="SGH-I467M">
+                <list>
+                    <value>SGH-I467M</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG-SGH-I857">
+                <list>
+                    <value>SAMSUNG-SGH-I857</value>
+                </list>
+            </device>
+        	<device id="SPH-P600">
+                <list>
+                    <value>SPH-P600</value>
+                </list>
+            </device>
+        	<device id="LG-LS720">
+                <list>
+                    <value>LG-LS720</value>
+                </list>
+            </device>
+        	<device id="SPH-M840">
+                <list>
+                    <value>SPH-M840</value>
+                </list>
+            </device>
+        	<device id="LG-LG870">
+                <list>
+                    <value>LG-LG870</value>
+                </list>
+            </device>
+        	<device id="GT-S6310T">
+                <list>
+                    <value>GT-S6310T</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG-SGH-I527">
+                <list>
+                    <value>SAMSUNG-SGH-I527</value>
+                </list>
+            </device>
+        	<device id="SonySGP321">
+                <list>
+                    <value>SonySGP321</value>
+                </list>
+            </device>
+        	<device id="GT-I9192">
+                <list>
+                    <value>GT-I9192</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG SCH-R970X">
+                <list>
+                    <value>SAMSUNG SCH-R970X</value>
+                </list>
+            </device>
+        	<device id="GT-P5210">
+                <list>
+                    <value>GT-P5210</value>
+                </list>
+            </device>
+        	<device id="LG-E989">
+                <list>
+                    <value>LG-E989</value>
+                </list>
+            </device>
+        	<device id="SAMSUNG GT-I9190">
+                <list>
+                    <value>SAMSUNG GT-I9190</value>
+                </list>
+            </device>
+        	<device id="LG-E445">
+                <list>
+                    <value>LG-E445</value>
+                </list>
+            </device>
         	<device id="C1904">
                 <list>
                     <value>C1904</value>
@@ -7382,6 +7517,11 @@
             </device>
         </builder>
         <builder class="org.openddr.simpleapi.oddr.builder.device.WinPhoneDeviceBuilder">
+        	<device id="Lumia 1020">
+                <list>
+                    <value>Lumia 1020</value>
+                </list>
+            </device>
         	<device id="Lumia 925">
                 <list>
                     <value>Lumia 925</value>

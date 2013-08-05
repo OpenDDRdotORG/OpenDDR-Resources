@@ -1,7 +1,7 @@
 <ODDR>
   <version>
-        <ver>1.19</ver>
-        <last_updated>2013-06-30 09:31:00</last_updated>
+        <ver>1.20</ver>
+        <last_updated>2013-08-05 09:31:00</last_updated>
     
     <official_url>openddr.org</official_url>
     <maintainers></maintainers>
@@ -37073,6 +37073,570 @@
       <property name="mobile_browser" value="Android Webkit"/>
       <property name="device_os" value="Android"/>
       <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="LG-E445" parentId="genericLG">
+      <property name="model" value="E445"/>
+      <property name="marketing_name" value="Optimus L4 II Dual"/>
+      <property name="displayWidth" value="320"/>
+      <property name="displayHeight" value="480"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SAMSUNG GT-I9190" parentId="genericSamsung">
+      <property name="model" value="GT-I9190"/>
+      <property name="marketing_name" value="Galaxy S4 Mini"/>
+      <property name="displayWidth" value="540"/>
+      <property name="displayHeight" value="960"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="LG-E989" parentId="genericLG">
+      <property name="model" value="E989"/>
+      <property name="marketing_name" value="Optimus G Pro 5.5"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-P5210" parentId="genericSamsung">
+      <property name="model" value="GT-P5210"/>
+      <property name="marketing_name" value="Galaxy Tab 3 10.1"/>
+      <property name="displayWidth" value="800"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="is_tablet" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+     <device id="SAMSUNG SCH-R970X" parentId="genericSamsung">
+      <property name="model" value="SCH-R970X"/>
+      <property name="marketing_name" value="Galaxy S4 LTE"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-I9192" parentId="genericSamsung">
+      <property name="model" value="GT-I9192"/>
+      <property name="marketing_name" value="Galaxy S4 Mini Duos"/>
+      <property name="displayWidth" value="540"/>
+      <property name="displayHeight" value="960"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+     <device id="SonySGP321" parentId="genericSonyEricsson">
+      <property name="model" value="SGP321"/>
+      <property name="marketing_name" value="Xperia Tablet Z LTE"/>
+      <property name="displayWidth" value="1200"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="is_tablet" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SAMSUNG-SGH-I527" parentId="genericSamsung">
+      <property name="model" value="SGH-I527"/>
+      <property name="marketing_name" value="Galaxy Mega 6.3"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-S6310T" parentId="genericSamsung">
+      <property name="model" value="GT-S6310T"/>
+      <property name="marketing_name" value="GALAXY Young"/>
+      <property name="displayWidth" value="320"/>
+      <property name="displayHeight" value="480"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="LG-LG870" parentId="genericLG">
+      <property name="model" value="LG870"/>
+      <property name="marketing_name" value="Optimus F7"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SPH-M840" parentId="genericSamsung">
+      <property name="model" value="SPH-M840"/>
+      <property name="marketing_name" value="Galaxy Ring"/>
+      <property name="displayWidth" value="480"/>
+      <property name="displayHeight" value="800"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="LG-LS720" parentId="genericLG">
+      <property name="model" value="LS720"/>
+      <property name="marketing_name" value="Optimus F3"/>
+      <property name="displayWidth" value="480"/>
+      <property name="displayHeight" value="800"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SPH-P600" parentId="genericSamsung">
+      <property name="model" value="SPH-P600"/>
+      <property name="marketing_name" value="Galaxy Note 10.1 LTE"/>
+      <property name="displayWidth" value="800"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SAMSUNG-SGH-I857" parentId="genericSamsung">
+      <property name="model" value="SGH-I857"/>
+      <property name="marketing_name" value="Double Time"/>
+      <property name="displayWidth" value="320"/>
+      <property name="displayHeight" value="480"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SGH-I467M" parentId="genericSamsung">
+      <property name="model" value="SGH-I467M"/>
+      <property name="marketing_name" value="Galaxy Note 8.0 LTE"/>
+      <property name="displayWidth" value="800"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-N7108" parentId="genericSamsung">
+      <property name="model" value="GT-N7108"/>
+      <property name="marketing_name" value="Galaxy Note II"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.1.1"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="XT1053" parentId="genericMotorola">
+      <property name="model" value="XT1053"/>
+      <property name="marketing_name" value="X Phone"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="Lumia 1020" parentId="genericNokia">
+      <property name="model" value="1020"/>
+      <property name="marketing_name" value="Lumia 1020"/>
+      <property name="displayWidth" value="768"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="IEMobile"/>
+      <property name="mobile_browser_version" value="10"/>
+      <property name="device_os" value="Windows Phone OS"/>
+      <property name="device_os_version" value="8"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SM-T315" parentId="genericSamsung">
+      <property name="model" value="SM-T315"/>
+      <property name="marketing_name" value="Galaxy Tab 3 8.0 LTE"/>
+      <property name="displayWidth" value="800"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="is_tablet" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-S7272" parentId="genericSamsung">
+      <property name="model" value="GT-S7272"/>
+      <property name="marketing_name" value="Galaxy Ace 3 3G Duos"/>
+      <property name="displayWidth" value="480"/>
+      <property name="displayHeight" value="800"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="SHV-E330S" parentId="genericSamsung">
+      <property name="model" value="SHV-E330S"/>
+      <property name="marketing_name" value="Galaxy S4 LTE-A"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="C6806" parentId="genericSonyEricsson">
+      <property name="model" value="C6806"/>
+      <property name="marketing_name" value="Xperia Z Ultra"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+          <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="C6833" parentId="genericSonyEricsson">
+      <property name="model" value="C6833"/>
+      <property name="marketing_name" value="Xperia Z Ultra"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="C6802" parentId="genericSonyEricsson">
+      <property name="model" value="C6802"/>
+      <property name="marketing_name" value="Xperia Z Ultra"/>
+      <property name="displayWidth" value="1080"/>
+      <property name="displayHeight" value="1920"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="XT1030" parentId="genericMotorola">
+      <property name="model" value="XT1030"/>
+      <property name="marketing_name" value="DROID MINI"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="XT1080" parentId="genericMotorola">
+      <property name="model" value="XT1080"/>
+      <property name="marketing_name" value="DROID ULTRA"/>
+      <property name="displayWidth" value="720"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="ME173X" parentId="genericAsus">
+      <property name="model" value="ME173X"/>
+      <property name="marketing_name" value="MeMO Pad HD"/>
+      <property name="displayWidth" value="800"/>
+      <property name="displayHeight" value="1280"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2.2"/>
+      <property name="dual_orientation" value="true"/>
+      <property name="is_tablet" value="true"/>
+      <property name="ajax_support_javascript" value="true"/>
+      <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="ajax_support_inner_html" value="true"/>
+      <property name="ajax_manipulate_dom" value="true"/>
+      <property name="ajax_manipulate_css" value="true"/>
+      <property name="ajax_support_events" value="true"/>
+      <property name="ajax_support_event_listener" value="true"/>
+      <property name="image_inlining" value="true"/>
+      <property name="inputDevices" value="touchscreen"/>
+      <property name="from" value="oddr"/>
+    </device>
+    <device id="GT-S7270" parentId="genericSamsung">
+      <property name="model" value="GT-S7270"/>
+      <property name="marketing_name" value="Galaxy Ace 3 3G"/>
+      <property name="displayWidth" value="480"/>
+      <property name="displayHeight" value="800"/>
+      <property name="mobile_browser" value="Android Webkit"/>
+      <property name="device_os" value="Android"/>
+      <property name="device_os_version" value="4.2"/>
       <property name="dual_orientation" value="true"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="ajax_support_getelementbyid" value="true"/>
