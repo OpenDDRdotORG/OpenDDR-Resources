@@ -764,6 +764,7 @@
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="320"/>
       <property name="displayHeight" value="240"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.2"/>
       <property name="mobile_browser_version" value="4.2.2"/>
       <property name="image_inlining" value="true"/>
@@ -3970,6 +3971,7 @@
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="320"/>
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.7.1"/>
       <property name="mobile_browser_version" value="4.7"/>
       <property name="ajax_support_events" value="true"/>
@@ -4385,6 +4387,7 @@
       <property name="displayWidth" value="240"/>
       <property name="displayHeight" value="260"/>
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.2"/>
       <property name="mobile_browser_version" value="4.2"/>
       <property name="ajax_support_events" value="true"/>
@@ -4443,6 +4446,7 @@
       <property name="marketing_name" value="Pearl"/>
       <property name="displayWidth" value="240"/>
       <property name="displayHeight" value="260"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.3"/>
       <property name="mobile_browser_version" value="4.3"/>
       <property name="image_inlining" value="true"/>
@@ -5546,6 +5550,7 @@
       <property name="from" value="open_db_modified"/>
     </device>
     <device id="BlackBerry9530" parentId="genericRIM">
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.6"/>
       <property name="mobile_browser_version" value="4.6"/>
       <property name="image_inlining" value="true"/>
@@ -5701,6 +5706,7 @@
       <property name="from" value="open_db_modified"/>
     </device>
     <device id="Blackberry8530" parentId="genericRIM">
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="5.0"/>
       <property name="mobile_browser_version" value="5.0"/>
       <property name="image_inlining" value="true"/>
@@ -5787,9 +5793,10 @@
 	  <property name="image_inlining" value="true"/>
 	  <property name="from" value="open_db_modified"/>
     </device>
-    <device id="BlackBerry 9330" parentId="genericRIM">
+    <device id="BlackBerry9330" parentId="genericRIM">
       <property name="ajax_support_getelementbyid" value="true"/>
       <property name="marketing_name" value="Curve"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="6.0"/>
       <property name="mobile_browser_version" value="6.0"/>
       <property name="ajax_support_events" value="true"/>
@@ -5835,8 +5842,8 @@
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="360"/>
       <property name="mobile_browser" value="BlackBerry"/>
-      <property name="mobile_browser_version" value="BlackBerry OS"/>
-      <property name="device_os" value="4.6"/>
+      <property name="mobile_browser_version" value="4.6"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.6"/>
       <property name="inputDevices" value="clickwheel"/>
 	  <property name="ajax_support_javascript" value="true"/>
@@ -6375,6 +6382,7 @@
       <property name="from" value="open_db_modified"/>
     </device>
     <device id="BlackBerry8830" parentId="genericRIM">
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.2.2"/>
       <property name="mobile_browser_version" value="4.2.2"/>
       <property name="image_inlining" value="true"/>
@@ -7026,12 +7034,13 @@
 	  <property name="xhtml_format_as_css_property" value="true"/>
       <property name="from" value="open_db_modified"/>
     </device>
-    <device id="BlackBerry 9650" parentId="genericRIM">
+    <device id="BlackBerry9650" parentId="genericRIM">
       <property name="model" value="BlackBerry 9650"/>
       <property name="marketing_name" value="Bold"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="320"/>
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="6.0"/>
       <property name="mobile_browser_version" value="6.0"/>
       <property name="ajax_support_events" value="true"/>
@@ -7177,8 +7186,9 @@
 	  <property name="xhtml_format_as_css_property" value="true"/>
 	  <property name="from" value="open_db_modified"/>
     </device>
-    <device id="BlackBerry 9670" parentId="genericRIM">
+    <device id="BlackBerry9670" parentId="genericRIM">
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="6.0"/>
       <property name="mobile_browser_version" value="6.0"/>
       <property name="ajax_support_events" value="true"/>
@@ -7190,7 +7200,7 @@
       <property name="displayWidth" value="360"/>
       <property name="ajax_support_inner_html" value="true"/>
       <property name="ajax_support_event_listener" value="true"/>
-      <property name="mobile_browser" value="Safari"/>
+      <property name="mobile_browser" value="BlackBerry"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="marketing_name" value="Style"/>
@@ -7293,7 +7303,7 @@
       <property name="displayHeight" value="240"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="4.1"/>
-      <property name="mobile_browser" value="BlackBerry OS"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.1"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -7307,7 +7317,7 @@
       <property name="displayHeight" value="240"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="4.1"/>
-      <property name="mobile_browser" value="BlackBerry OS"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.1"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -7321,7 +7331,7 @@
       <property name="displayHeight" value="240"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="4.1"/>
-      <property name="mobile_browser" value="BlackBerry OS"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.1"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -8238,6 +8248,7 @@
       <property name="displayWidth" value="320"/>
       <property name="displayHeight" value="240"/>
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.2"/>
       <property name="mobile_browser_version" value="4.2.1"/>
       <property name="image_inlining" value="true"/>
@@ -9797,6 +9808,7 @@
 	  <property name="from" value="open_db_modified"/>
     </device>
     <device id="BlackBerry9700a" parentId="genericRIM">
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="5.0"/>
       <property name="mobile_browser_version" value="5.0"/>
       <property name="image_inlining" value="true"/>
@@ -10031,6 +10043,7 @@
     <device id="BlackBerry8350i" parentId="genericRIM">
       <property name="ajax_support_getelementbyid" value="true"/>
       <property name="marketing_name" value="Curve"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.6"/>
       <property name="mobile_browser_version" value="4.6"/>
       <property name="ajax_support_events" value="true"/>
@@ -12094,8 +12107,9 @@
     <device id="genericDoCoMo" parentId="generic-">
       <property name="vendor" value="DoCoMo"/>
     </device>
-    <device id="BlackBerry 9800" parentId="genericRIM">
+    <device id="BlackBerry9800" parentId="genericRIM">
       <property name="dual_orientation" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="6.0"/>
       <property name="mobile_browser_version" value="6.0"/>
       <property name="image_inlining" value="true"/>
@@ -12109,7 +12123,7 @@
       <property name="model" value="BlackBerry 9800"/>
       <property name="displayWidth" value="360"/>
       <property name="ajax_support_event_listener" value="true"/>
-      <property name="mobile_browser" value="Safari"/>
+      <property name="mobile_browser" value="BlackBerry"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="from" value="open_db_modified"/>
@@ -12376,8 +12390,9 @@
 	  <property name="image_inlining" value="true"/>
 	  <property name="from" value="open_db_modified"/>
     </device>
-    <device id="BlackBerry 9780" parentId="genericRIM">
+    <device id="BlackBerry9780" parentId="genericRIM">
       <property name="ajax_support_getelementbyid" value="true"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="6.0"/>
       <property name="mobile_browser_version" value="6.0"/>
       <property name="ajax_support_events" value="true"/>
@@ -12389,7 +12404,7 @@
       <property name="displayWidth" value="480"/>
       <property name="ajax_support_inner_html" value="true"/>
       <property name="ajax_support_event_listener" value="true"/>
-      <property name="mobile_browser" value="Safari"/>
+      <property name="mobile_browser" value="BlackBerry"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="marketing_name" value="Bold"/>
@@ -13551,6 +13566,7 @@
     </device>
     <device id="BlackBerry8330m" parentId="genericRIM">
       <property name="marketing_name" value="Curve"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.5"/>
       <property name="mobile_browser_version" value="4.5"/>
       <property name="image_inlining" value="true"/>
@@ -13716,7 +13732,8 @@
       <property name="ajax_support_event_listener" value="true"/>
       <property name="from" value="open_db_modified"/>
     </device>
-    <device id="BlackBerry 9700" parentId="genericRIM">
+    <device id="BlackBerry9700" parentId="genericRIM">
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="5.0"/>
       <property name="mobile_browser_version" value="5.0"/>
       <property name="image_inlining" value="true"/>
@@ -15214,12 +15231,14 @@
       <property name="mobile_browser_version" value="6.2.3.3"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9860" parentId="genericRIM">
+    <device id="BlackBerry9860" parentId="genericRIM">
       <property name="model" value="BlackBerry 9860"/>
       <property name="marketing_name" value="Torch"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="800"/>
       <property name="mobile_browser" value="BlackBerry"/>
+      <property name="mobile_browser_version" value="7.0"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -15232,13 +15251,14 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9900" parentId="genericRIM">
+    <device id="BlackBerry9900" parentId="genericRIM">
       <property name="model" value="BlackBerry 9900"/>
       <property name="marketing_name" value="Bold Touch"/>
       <property name="displayWidth" value="640"/>
       <property name="displayHeight" value="480"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="7.0"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -15251,12 +15271,14 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9930" parentId="genericRIM">
+    <device id="BlackBerry9930" parentId="genericRIM">
       <property name="model" value="BlackBerry 9930"/>
       <property name="marketing_name" value="Bold"/>
       <property name="displayWidth" value="640"/>
       <property name="displayHeight" value="480"/>
       <property name="mobile_browser" value="BlackBerry"/>
+      <property name="mobile_browser_version" value="7.0"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -15316,6 +15338,8 @@
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="360"/>
       <property name="mobile_browser" value="BlackBerry"/>
+      <property name="mobile_browser_version" value="5.0"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="5.0"/>
       <property name="from" value="oddr"/>
     </device>
@@ -15546,11 +15570,12 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9810" parentId="genericRIM">
+    <device id="BlackBerry9810" parentId="genericRIM">
       <property name="model" value="BlackBerry 9810"/>
       <property name="marketing_name" value="Torch"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="640"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="mobile_browser" value="BlackBerry"/>
@@ -15704,6 +15729,7 @@
       <property name="displayHeight" value="240"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="inputDevices" value="clickwheel"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.5.0"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="image_inlining" value="true"/>
@@ -18102,14 +18128,14 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9850" parentId="genericRIM">
+    <device id="BlackBerry9850" parentId="genericRIM">
       <property name="model" value="BlackBerry 9850"/>
       <property name="marketing_name" value="Torch"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="800"/>
-      <property name="mobile_browser" value="Black Berry OS "/>
+      <property name="mobile_browser" value="BlackBerry OS "/>
       <property name="mobile_browser_version" value="7.0.0"/>
-      <property name="device_os" value="BlackBerry "/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="dual_orientation" value="true"/>
@@ -18128,9 +18154,9 @@
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="320"/>
       <property name="displayHeight" value="240"/>
-      <property name="mobile_browser" value="Black Berry OS "/>
+      <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="4.2.2"/>
-      <property name="device_os" value="BlackBerry "/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="4.2.2"/>
       <property name="inputDevices" value="clickwheel"/>
       <property name="ajax_support_javascript" value="true"/>
@@ -18511,7 +18537,7 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9350" parentId="genericRIM">
+    <device id="BlackBerry9350" parentId="genericRIM">
       <property name="model" value="BlackBerry 9350"/>
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="480"/>
@@ -20740,11 +20766,12 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9380" parentId="genericRIM">
+    <device id="BlackBerry9380" parentId="genericRIM">
       <property name="model" value="BlackBerry 9380"/>
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="360"/>
       <property name="displayHeight" value="480"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="7.0.0"/>
@@ -23547,11 +23574,12 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9790" parentId="genericRIM">
+    <device id="BlackBerry9790" parentId="genericRIM">
       <property name="model" value="BlackBerry 9790"/>
       <property name="marketing_name" value="Bold"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="360"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
       <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="7.0.0"/>
@@ -27372,11 +27400,12 @@
       <property name="inputDevices" value="touchscreen"/>
       <property name="from" value="oddr"/>
     </device>
-    <device id="BlackBerry 9220" parentId="genericRIM">
+    <device id="BlackBerry9220" parentId="genericRIM">
       <property name="model" value="BlackBerry 9220"/>
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="320"/>
       <property name="displayHeight" value="240"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
       <property name="inputDevices" value="touchscreen"/>
       <property name="mobile_browser" value="BlackBerry"/>
@@ -30912,12 +30941,14 @@
       <property name="image_inlining" value="true"/>
       <property name="from" value="oddr"/>
     </device>
-     <device id="BlackBerry 9370" parentId="genericRIM">
+     <device id="BlackBerry9370" parentId="genericRIM">
       <property name="model" value="9370"/>
       <property name="marketing_name" value="Curve"/>
       <property name="displayWidth" value="480"/>
       <property name="displayHeight" value="360"/>
+      <property name="device_os" value="BlackBerry OS"/>
       <property name="device_os_version" value="7.0.0"/>
+      <property name="mobile_browser" value="BlackBerry"/>
       <property name="mobile_browser_version" value="7.0.0"/>
       <property name="ajax_support_javascript" value="true"/>
       <property name="ajax_support_getelementbyid" value="true"/>
