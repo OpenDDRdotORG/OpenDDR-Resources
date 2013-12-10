@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.23</ver>
-        <last_updated>2013-10-31 09:31:00</last_updated>
+        <ver>1.24</ver>
+        <last_updated>2013-12-08 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
         <authors>
         </authors>
         <statement>
-        <![CDATA[
-        Copyright 2011 OpenDDR LLC
-        This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
-        Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
-        ]]>
+		     <![CDATA[ 
+				Copyright 2011 OpenDDR LLC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		]]>
         </statement>
     </version>
     <!-- ODDR Vocabulary description -->
