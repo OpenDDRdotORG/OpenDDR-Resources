@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.26</ver>
-        <last_updated>2014-02-20 09:31:00</last_updated>
+        <ver>1.27</ver>
+        <last_updated>2014-03-28 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
         <authors>
         </authors>
         <statement>
-		     <![CDATA[ 
+		     <![CDATA[
 				Copyright 2011 OpenDDR LLC
-		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
 		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
 		]]>
         </statement>

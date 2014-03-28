@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ODDR>
     <version>
-        <ver>1.26</ver>
-        <last_updated>2014-02-20 09:31:00</last_updated>
+        <ver>1.27</ver>
+        <last_updated>2014-03-28 09:31:00</last_updated>
         <official_url>openddr.org</official_url>
         <maintainers>
         </maintainers>
@@ -18,6 +18,191 @@
     </version>
     <Builders>
         <builder class="org.openddr.simpleapi.oddr.builder.device.AndroidDeviceBuilder">
+            <device id="D5316">
+                <list>
+                    <value>D5316</value>
+                </list>
+            </device>
+            <device id="ALCATEL ONE TOUCH Fierce">
+                <list>
+                    <value>ALCATEL ONE TOUCH Fierce</value>
+                </list>
+            </device>
+            <device id="ALCATEL ONE TOUCH 5035E">
+                <list>
+                    <value>ALCATEL ONE TOUCH 5035E</value>
+                </list>
+            </device>
+            <device id="LG-D285">
+                <list>
+                    <value>LG-D285</value>
+                </list>
+            </device>
+            <device id="ALCATEL ONE TOUCH 6016D">
+                <list>
+                    <value>ALCATEL ONE TOUCH 6016D</value>
+                </list>
+            </device>
+            <device id="ALCATEL ONETOUCH 6036Y">
+                <list>
+                    <value>ALCATEL ONETOUCH 6036Y</value>
+                </list>
+            </device>
+            <device id="ALCATEL ONETOUCH 6036A">
+                <list>
+                    <value>ALCATEL ONETOUCH 6036A</value>
+                </list>
+            </device>
+            <device id="SM-G386F">
+                <list>
+                    <value>SM-G386F</value>
+                </list>
+            </device>
+            <device id="SM-N750K">
+                <list>
+                    <value>SM-N750K</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-T325">
+                <list>
+                    <value>SAMSUNG SM-T325</value>
+                </list>
+            </device>
+            <device id="SM-G3518">
+                <list>
+                    <value>SM-G3518</value>
+                </list>
+            </device>
+            <device id="SAMSUNG GT-I8200">
+                <list>
+                    <value>SAMSUNG GT-I8200</value>
+                </list>
+            </device>
+            <device id="SM-G900M">
+                <list>
+                    <value>SM-G900M</value>
+                </list>
+            </device>
+            <device id="HuaweiU8180">
+                <list>
+                    <value>U8180</value>
+                </list>
+            </device>
+            <device id="HUAWEI P2-6070">
+                <list>
+                    <value>HUAWEI P2-6070</value>
+                </list>
+            </device>
+            <device id="ZTE R83">
+                <list>
+                    <value>ZTE R83</value>
+                </list>
+            </device>
+            <device id="SAMSUNG-SGH-I337">
+                <list>
+                    <value>SAMSUNG  SGH-I337</value>
+                </list>
+            </device>
+            <device id="ZTE R880H">
+                <list>
+                    <value>ZTE R880H</value>
+                </list>
+            </device>
+            <device id="ZTE V795">
+                <list>
+                    <value>ZTE V795</value>
+                </list>
+            </device>
+            <device id="GT-S7580L">
+                <list>
+                    <value>GT-S7580L</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-G900T">
+                <list>
+                    <value>SM-G900T</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-G900T">
+                <list>
+                    <value>SAMSUNG SM-G900T</value>
+                </list>
+            </device>
+            <device id="SM-T525">
+                <list>
+                    <value>SM-T525</value>
+                </list>
+            </device>
+            <device id="GT-I9152P">
+                <list>
+                    <value>GT-I9152P</value>
+                </list>
+            </device>
+            <device id="D5306">
+                <list>
+                    <value>D5306</value>
+                </list>
+            </device>
+            <device id="SGP521">
+                <list>
+                    <value>SGP521</value>
+                </list>
+            </device>
+            <device id="D2303">
+                <list>
+                    <value>D2303</value>
+                </list>
+            </device>
+            <device id="D2305">
+                <list>
+                    <value>D2305</value>
+                </list>
+            </device>
+            <device id="D2302">
+                <list>
+                    <value>D2302</value>
+                </list>
+            </device>
+            <device id="LG-D618">
+                <list>
+                    <value>LG-D618</value>
+                </list>
+            </device>
+            <device id="LG-D620">
+                <list>
+                    <value>LG-D620</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-N7505">
+                <list>
+                    <value>SAMSUNG SM-N7505</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-N7502">
+                <list>
+                    <value>SAMSUNG SM-N7502</value>
+                </list>
+            </device>
+            <device id="LG-F350K">
+                <list>
+                    <value>LG-F350K</value>
+                </list>
+            </device>
+            <device id="SGP512">
+                <list>
+                    <value>SGP512</value>
+                </list>
+            </device>
+            <device id="SAMSUNG SM-G900V">
+                <list>
+                    <value>SAMSUNG SM-G900V</value>
+                </list>
+            </device>
+            <device id="SAMSUNG-SM-G900A">
+                <list>
+                    <value>SAMSUNG-SM-G900A</value>
+                </list>
+            </device>
             <device id="ALCATEL ONE TOUCH 6010D">
                 <list>
                     <value>ALCATEL ONE TOUCH 6010D</value>
