@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ODDR>
+    <version>
+        <ver>1.7</ver>
+        <last_updated>2012-06-06 11:35:00</last_updated>
+        <official_url>openddr.org</official_url>
+        <maintainers>
+        </maintainers>
+        <authors>
+        </authors>
+        <statement>
+		     <![CDATA[
+				Copyright 2012 Fundación CTIC
+		This file is made available under the terms of the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
+		Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+		author: José Quiroga Álvarez
+ 		author: Diego Martínez Ballesteros
+		]]>
+        </statement>
+    </version>
+    <Builders>
+        <builder class="org.openddr.simpleapi.oddr.builder.vitamineddevice.VitaminedAndroidDeviceBuilder">
+            <device id="Kindle Fire">
+                <list>
+                    <value>Silk-Accelerated</value>
+                </list>
+            </device>
+        </builder>
+        <builder class="org.openddr.simpleapi.oddr.builder.vitamineddevice.VitaminedWinPhoneDeviceBuilder">
+        </builder>
+        <builder class="org.openddr.simpleapi.oddr.builder.vitamineddevice.VitaminedSymbianDeviceBuilder">
+        </builder>
+        <builder class="org.openddr.simpleapi.oddr.builder.vitamineddevice.VitaminedTwoStepDeviceBuilder">
+        </builder>
+        <builder class="org.openddr.simpleapi.oddr.builder.vitamineddevice.VitaminedSimpleDeviceBuilder">
+            <device id="desktopDevice">
+                <list>
+                    <value>Mozilla/4.0 (compatible; MSIE 6.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 7.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 8.0;</value>
+                    <value>Firefox</value>
+                    <value>Firefox/1.0</value>
+                    <value>Firefox/1.5</value>
+                    <value>Firefox/2.0</value>
+                    <value>Firefox/3.0</value>
+                    <value>Firefox/3.5</value>
+                    <value>Firefox/4.0</value>
+                    <value>Firefox/5.0</value>
+                    <value>Firefox/6.0</value>
+                    <value>Firefox/7.0</value>
+                    <value>Opera</value>
+                    <value>Opera/7</value>
+                    <value>Opera 7</value>
+                    <value>Opera/8</value>
+                    <value>Opera 8</value>
+                    <value>Opera/9</value>
+                    <value>Opera 9</value>
+                    <value>Opera/10</value>
+                    <value>Opera/9.8</value>
+                    <value>Opera 10</value>
+                    <value>Safari/</value>
+                    <value>Safari/525</value>
+                    <value>Safari/530</value>
+                    <value>Mozilla/5.0 (Macintosh; U; Safari/525</value>
+                    <value>Mozilla/5.0 (Windows; U; Safari/525</value>
+                    <value>Mozilla/5.0 (Macintosh; U; Safari/530</value>
+                    <value>Mozilla/5.0 (Windows; U; Safari/530</value>
+                    <value>Mozilla/4.0 (compatible; MSIE</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 4.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 5.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 5.5;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 6.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 7.0;</value>
+                    <value>Mozilla/4.0 (compatible; MSIE 8.0;</value>
+                    <value>Mozilla/5.0 (compatible; MSIE 8.0;</value>
+                    <value>Mozilla/5.0 (compatible; MSIE 9.0;</value>
+                    <value>MSIE 9.0 (compatible; MSIE 9.0;</value>
+                    <value>Chrome</value>
+                    <value>Chrome/0</value>
+                    <value>Chrome/1</value>
+                    <value>Chrome/2</value>
+                    <value>Chrome/3</value>
+                    <value>Chrome/4</value>
+                    <value>Chrome/5</value>
+                    <value>Chrome/6</value>
+                    <value>Chrome/7</value>
+                    <value>Chrome/8</value>
+                    <value>Chrome/9</value>
+                    <value>Chrome/10</value>
+                    <value>Chrome/11</value>
+                    <value>Chrome/12</value>
+                    <value>Chrome/13</value>
+                    <value>Chrome/14</value>
+                    <value>Chrome/15</value>
+                    <value>Chrome/16</value>
+                    <value>Chrome/17</value>
+                    <value>Chrome/18</value>
+                    <value>Chrome/19</value>
+                    <value>Chrome/20</value>
+                    <value>Konqueror</value>
+                    <value>Konqueror/2</value>
+                    <value>Konqueror/3</value>
+                    <value>Konqueror/4</value>
+                    <value>mozilla_ver5</value>
+                </list>
+            </device>
+        </builder>
+    </Builders>
+</ODDR>
